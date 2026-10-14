@@ -1,2 +1,2 @@
 ## Programming
-Programming homework, MIG III-1
+Programming homework, MIG, III-1
